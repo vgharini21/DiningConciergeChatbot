@@ -70,13 +70,6 @@ The system follows a **serverless architecture** using the following key compone
 - **Amazon S3** – Static website hosting  
 - **Amazon CloudWatch / EventBridge** – Scheduled triggers for Lambda  
 
----
-
-## Extra Credit (Optional)
-
-Implements persistent **state management** using DynamoDB so the chatbot remembers the user’s **last location** and **cuisine choice**. Upon returning, users automatically receive updated restaurant recommendations based on their previous search.
-
----
 
 ## Example Conversation
 
