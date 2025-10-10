@@ -2,8 +2,11 @@
 
 AWS Cloud Dining Concierge Chatbot is a fully serverless, microservice-driven web application designed to provide personalized restaurant suggestions based on user preferences. The system leverages multiple AWS services such as **Lex**, **Lambda**, **SQS**, **DynamoDB**, **ElasticSearch**, **SES**, and **API Gateway** to deliver scalable, event-driven, and automated functionality.
 
+---
 You can interact with the live chatbot here:  
 👉 [**Dining Concierge Chatbot (Hosted on S3)**](https://diningconciergechatbot2025.s3.us-east-1.amazonaws.com/index.html)
+
+👉 [Click here to watch the project demo on YouTube](https://www.youtube.com/watch?v=jbNNKtl9jew)
 
 ---
 
