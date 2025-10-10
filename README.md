@@ -40,7 +40,7 @@ The system follows a **serverless architecture** using the following key compone
    - **LF2:** A queue worker triggered periodically by **CloudWatch Events**, fetching messages from SQS, querying **ElasticSearch** and **DynamoDB**, and sending formatted restaurant suggestions via **SES** email.
 
 5. **Data Storage:**
-   - **DynamoDB:** Stores 5,000+ restaurant entries scraped using the Yelp API, including metadata like business ID, name, address, coordinates, ratings, and timestamps.
+   - **DynamoDB:** Stores 1,200+ restaurant entries scraped using the Yelp API, including metadata like business ID, name, address, coordinates, ratings, and timestamps.
    - **ElasticSearch:** Maintains indexed records of restaurant cuisines for fast random selection and querying.
 
 6. **Notifications:**
