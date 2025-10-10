@@ -99,7 +99,7 @@ The system follows a **serverless architecture** using the following key compone
 
 ## Credits
 
-Developed as part of **Cloud Computing and Big Data – Fall 2024** at **New York University**.
+Developed as part of **Cloud Computing and Big Data – Fall 2025** at **New York University**.
 
 ---
 
