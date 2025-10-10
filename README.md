@@ -96,7 +96,7 @@ Implements persistent **state management** using DynamoDB so the chatbot remembe
 **Bot:** You’re all set! Expect my suggestions shortly.  
 
 **(Email arrives later via SES)**  
-> “Hello! Here are my Japanese restaurant suggestions for 2 people today at 7 pm:  
+> “Hello! Here are my Indian restaurant suggestions for 2 people today at 7 pm:  
 > 1. Bombay Chowk, located at 1378 1st Ave, New York, NY 10021
 > 2. Rowdy Rooster, located at 149 1st Ave, New York, NY 10003  
 > 3. Saravanaa Bhavan, located at 413 Amsterdam Ave, New York, NY 10024
